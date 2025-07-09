@@ -1,2 +1,1 @@
-# KubernetesAiLabSolutionsPro
-Advanced KubernetesAiLabSolutionsPro project
+.
